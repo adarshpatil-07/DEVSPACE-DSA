@@ -1,0 +1,1 @@
+// Q1 write a cpp program to print a diamond pattern using nested loops.
