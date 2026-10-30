@@ -1,22 +1,36 @@
-# DEVSPACE | DSA Practice
+# 💻 DEVSPACE | DSA Practice
 
-A collection of Data Structures and Algorithms (DSA) problems solved in C++ to strengthen problem-solving skills and build a solid foundation in programming.
+A personal collection of **Data Structures and Algorithms (DSA)** problems solved in C++ to strengthen problem-solving skills, improve logical thinking, and build a solid foundation in programming.
 
 ## 📚 Topics Covered
 
-- Basic Programming
-- Conditional Statements and Loops
-- Number-Based Problems
-- Patterns
-- Arrays and Strings
-- Searching and Sorting
-- Data Structures and Algorithms
+| Topic | Description |
+|---|---|
+| Basic Programming | Fundamentals and basic operations |
+| Conditional Statements & Loops | Decision-making and iteration |
+| Number-Based Problems | Mathematical and logical problems |
+| Patterns | Pattern printing and nested loops |
+| Arrays & Strings | Array manipulation and string operations |
+| Searching & Sorting | Searching and sorting algorithms |
+| Data Structures & Algorithms | Core DSA concepts and implementations |
 
-## 💻 Language
-- C++
+## 🛠️ Language & Tools
 
-## 🎯 Goal
+- **Language:** C++
+- **IDE:** Visual Studio Code
+- **Version Control:** Git & GitHub
 
-To improve logical thinking, develop efficient problem-solving techniques, and maintain consistency in DSA practice.
+## 🎯 Goals
+
+- Strengthen problem-solving and logical thinking.
+- Understand DSA concepts through practical implementation.
+- Write clean and efficient C++ solutions.
+- Maintain consistency through regular practice.
+
+## 📌 About This Repository
+
+This repository documents my DSA learning journey, from programming fundamentals to advanced concepts. It is continuously updated as I learn and solve new problems.
 
 ---
+
+*Learning, solving, and improving one problem at a time.*
